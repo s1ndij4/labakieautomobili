@@ -1,2 +1,2 @@
 AutoPrezentācija
-ligeris l
+ligeris ir lohs/zurka
