@@ -1,0 +1,85 @@
+        /* CSS for header container */
+        .header {
+            background-color: #f1f1f1;
+            padding: 0px 20px;
+        }
+        
+        /* CSS for header links */
+        .header-link {
+            color: #000;
+            text-decoration: none;
+            margin-right: 10%;
+            font-weight: bold;
+        }
+
+.middle {
+    
+        float: center;
+        padding: 12px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 17px;
+        width: 25%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+        text-align: center;
+}
+
+.image {
+    width: 50px ;
+    height: 50px;
+}
+
+
+        /* CSS for header container */
+        .header {
+            background-color: #a2a4c0;
+            padding: 0px 0px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* CSS for links */
+        .header-link {
+            color: #ffffff;
+            text-decoration: none;
+            margin-right: 20px;
+            font-weight: bold;
+        }
+
+        /* CSS for images */
+        .header-image {
+            height: 50px;
+            width: 50px;
+            margin: 0 0px;
+        }
+
+
+body {
+    background-color: rgb(23, 23, 61);
+}
+
+
+        /* CSS for header container */
+        .apaksa {
+            background-color: #a2a4c0;
+            padding: 0px 0px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 100%;
+        }
+
+        /* CSS for links */
+        .apaksa-link {
+            color: #ffffff;
+            text-decoration: none;
+            margin-right: 20px;
+            font-weight: bold;
+        }
+
+        /* CSS for images */
+        .apaksa-image {
+            height: 50px;
+            width: 50px;
+            margin: 0 0px;
+        }
