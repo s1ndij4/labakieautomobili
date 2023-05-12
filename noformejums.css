@@ -10,18 +10,11 @@
             text-decoration: none;
             margin-right: 10%;
             font-weight: bold;
+            font-size: 25px;
         }
 
-.middle {
-    
-        float: center;
-        padding: 12px 0px;
-        color: white;
-        text-decoration: none;
-        font-size: 17px;
-        width: 25%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
-        text-align: center;
-}
+
+
 
 .image {
     width: 50px ;
@@ -36,6 +29,7 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            margin-bottom: 40px;
         }
 
         /* CSS for links */
@@ -46,6 +40,9 @@
             font-weight: bold;
         }
 
+        a:hover {
+            color: #000;
+        }
         /* CSS for images */
         .header-image {
             height: 50px;
@@ -66,7 +63,8 @@ body {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-top: 100%;
+            margin-top: 40px;
+            
         }
 
         /* CSS for links */
@@ -83,3 +81,31 @@ body {
             width: 50px;
             margin: 0 0px;
         }
+
+.center {
+    text-align: center;
+    color: white;
+}
+
+.kreisa {
+    float: left;
+    padding: 0px 30px 30px 0px;
+    width: 22%
+}
+
+.baltskreisa {
+    color: white;
+    padding: 3%;
+}
+
+.laba {
+    float: right;
+    padding: 0px 30px 0px 30px;
+    width: 22%
+}
+
+.baltslaba {
+    color: white;
+    padding: 3%;
+    text-align: right;
+}
