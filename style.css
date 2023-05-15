@@ -1,0 +1,136 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.galvena {
+    height: 100px;
+    width: 100px;
+}
+
+.videja {
+    height: 35%;
+    float: right;
+    padding-right: 10%;
+    
+}
+.apaksa_kreisa{
+    height: 10%;
+    width: 40%;
+    float: left;
+
+
+}
+.apaksa_laba{
+    height: 10%;
+    width: 40%;
+    
+      
+}
+.behas{
+    display: flex;
+    justify-content: space-between;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 24px;
+}
+.header {
+background-color: #f1f1f1;
+padding: 0px 20px;
+}
+
+.header {
+background-color: #a2a4c0;
+padding: 0px 0px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 4%;
+}
+
+.header-link {
+color: #ffffff;
+text-decoration: none;
+margin-right: 20px;
+font-weight: bold;
+font-size: 25px
+}
+
+        
+.header-image {
+    height: 50px;
+    width: 50px;
+    margin: 0 0px;
+}
+
+
+body {
+    background-color: rgb(23, 23, 61);
+}
+
+
+        
+.apaksa {
+    background-color: #a2a4c0;
+    padding: 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4%;
+            
+}
+
+     
+.apaksa-link {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+      
+.apaksa-image {
+    height: 50px;
+    width: 50px;
+    margin: 0 0px;
+}
+
+
+        
+.center {
+    text-align: center;
+    color: white;
+}
+
+.kreisa {
+    float: left;
+    padding: 0px 30px 30px 0px;
+    width: 22%
+}
+
+.baltskreisa {
+    color: white;
+    padding: 3%;
+}
+
+.laba {
+    float: right;
+    padding: 0px 30px 0px 30px;
+    width: 22%
+}
+
+.baltslaba {
+    color: white;
+    padding: 3%;
+    text-align: right;
+}
+
+a:hover {
+    color: #000;
+}
