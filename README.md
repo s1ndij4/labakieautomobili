@@ -1,3 +1,3 @@
 AutoPrezentācija
-ligeris ir lohs/zurka
+ligeris ir ...
 
