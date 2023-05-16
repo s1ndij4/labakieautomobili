@@ -44,7 +44,9 @@ height: 50px;
 
 
 body {
-background-color: rgb(23, 23, 61);
+    background-color: rgb(23, 23, 61);
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik', sans-serif;
 }
 
 
